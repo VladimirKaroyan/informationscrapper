@@ -1,1 +1,1 @@
-# project that dedicated for scrape information from web pages   
+# Project is dedicated for scraping information from any web page
